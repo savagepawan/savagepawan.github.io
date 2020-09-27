@@ -20,8 +20,6 @@
 <p>
 <a href="#">Twitter</a><br>
 <a href="#">Facebook</a>
-</p>
-</div>
 <div class="column">
 <h4>My Story</h4>
 <p><font color="red">Hi there! I'm an aspiring web developer.</p>
@@ -69,7 +67,5 @@
 </div>
 <div class="column">
 <h4>My Story</h4>
-<p><font color="red">Hi there! I'm an aspiring web developer.</p>
-</div>
-</div>
-</div>
+<p><font color="red">Hi there! I'm an aspiring web developer.
+
