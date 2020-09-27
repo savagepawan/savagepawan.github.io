@@ -37,7 +37,6 @@
 <div class="container">
 <div class="post">
 <div class="post-author">
-<img src="me.jpg">
 <span>Me</span>
 </div>
 <p class="post-date">Today</p>
